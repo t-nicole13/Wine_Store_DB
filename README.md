@@ -8,8 +8,8 @@ Create a database of wines that have a quality score of at least 7 for an online
 - Color: Red and white wines are available.  Heavy wines generally have a deeper color.
 
 ## Tasks
-1. Import red and white wine csvs to Jupyter Notebook for analysis.
-2. Create a Pandas DataFrame from the red and white wine csvs.
+1. Import red and white wine csv files to Jupyter Notebook for analysis.
+2. Create a Pandas DataFrame from the red and white wine csv files.
 3. Clean DataFrames to remove any rows missing data.
 4. Add a column for wine type to both DataFrames.
 5. Filter both DataFrames for a quality score that is at least 7.
@@ -19,11 +19,11 @@ Create a database of wines that have a quality score of at least 7 for an online
 
 ## Resources
 ### Tools
-- jupyter notebook
+- jupyter notebook 6.4.5
 - pgAdmin 4
-- visual studio code
-- python
-- pandas
+- visual studio code 1.67.2 
+- python 3.9
+- pandas 1.3.4
 
 ### Data
 - Wine Datasets (https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
