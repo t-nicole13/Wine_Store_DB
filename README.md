@@ -12,10 +12,10 @@ Create a database of wines that have a quality score of at least 7 for an online
 2. Create a Pandas DataFrame from the red and white wine csv files.
 3. Clean DataFrames to remove any rows missing data.
 4. Add a column for wine color to both DataFrames.
-5. Filter both DataFrames for a quality score that is at least 7.
 6. Concat the 2 DataFrames together.
-7. Export the merged DataFrame to pgAdmin 4.
-8. Create tables in pgAdmin 4 based on alcohol content.
+7. Filter new DataFrame for a quality score that is at least 7.
+8. Export the merged DataFrame to pgAdmin 4.
+9. Create tables in pgAdmin 4 based on alcohol content.
 
 ## Resources
 ### Tools
