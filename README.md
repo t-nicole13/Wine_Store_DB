@@ -1,7 +1,7 @@
 # Wine_Store_DB
 
 ## Objective
-Create a database of wines that have a quality score of at least 7 for an online store. The manufacturer of the available wines will be hidden prior to checkout to prevent bias. The goal is to have customers choose wines based on the quality score, alcohol content, and wine color.  
+Create a database of wines that have a quality score of at least 7 for an online store.  The goal is to keep track of the available wines based on the quality score, alcohol content, and wine color.  
 
 - Quality: Graded from 0 (very bad) to 10 (very excellent)
 - Alcohol: Percentage of alcohol content.
@@ -28,4 +28,50 @@ Create a database of wines that have a quality score of at least 7 for an online
 ### Data
 - Wine Datasets (https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
+## Samples of the Database Tables
+### Quality Score 7
+![Getting Started](images/quality_7.png)
 
+### Quality Score 8
+![Getting Started](images/quality_8.png)
+
+### Quality Score 9
+![Getting Started](images/quality_9.png)
+
+### Alcohol Content Between 10 and 10.9
+![Getting Started](images/alc_ten.png)
+
+### Alcohol Content Between 12 and 12.9
+![Getting Started](images/alc_12.png)
+
+### Alcohol Content Between 14 and 14.9
+![Getting Started](images/alc_14.png)
+
+### Color Red
+![Getting Started](images/red.png)
+
+### Color White
+![Getting Started](images/white.png)
+
+## Count of Database Tables
+### Quality Score 7 Count
+
+### Quality Score 8 Count
+
+### Quality Score 9 Count
+
+### Alcohol Content Between 9 and 9.9 Count
+
+### Alcohol Content Between 10 and 10.9 Count
+
+### Alcohol Content Between 11 and 11.9 Count
+
+### Alcohol Content Between 12 and 12.9 Count
+
+### Alcohol Content Between 13 and 13.9 Count
+
+### Alcohol Content Between 14 and 14.9 Count
+
+### Color Red Count
+
+### Color White Count
