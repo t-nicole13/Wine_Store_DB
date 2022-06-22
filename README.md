@@ -14,8 +14,8 @@ Create a database of wines that have a quality score of at least 7 for an online
 4. Add a column for wine color to both DataFrames.
 6. Concat the 2 DataFrames together.
 7. Filter new DataFrame for a quality score that is at least 7.
-8. Export the merged DataFrame to pgAdmin 4.
-9. Create tables in pgAdmin 4 based on alcohol content.
+8. Export the concated DataFrame to a new csv file and import into pgAdmin 4.
+9. Create tables in pgAdmin 4 based on quality score, alcohol content, and wine color.
 
 ## Resources
 ### Tools
