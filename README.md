@@ -53,25 +53,40 @@ Create a database of wines that have a quality score of at least 7 for an online
 ### Color White
 ![Getting Started](images/white.png)
 
-## Count of Database Tables
+
+## Row Count of Database Tables
 ### Quality Score 7 Count
+![Getting Started](images/q7_count.png)
 
 ### Quality Score 8 Count
+![Getting Started](images/quality_8.png)
 
 ### Quality Score 9 Count
+![Getting Started](images/q9_count.png)
+
+### Alcohol Content Between 8 and 8.9 Count
+![Getting Started](images/a8_count.png)
 
 ### Alcohol Content Between 9 and 9.9 Count
+![Getting Started](images/a9_count.png)
 
 ### Alcohol Content Between 10 and 10.9 Count
+![Getting Started](images/a10_count.png)
 
 ### Alcohol Content Between 11 and 11.9 Count
+![Getting Started](images/a11_count.png)
 
 ### Alcohol Content Between 12 and 12.9 Count
+![Getting Started](images/a12_count.png)
 
 ### Alcohol Content Between 13 and 13.9 Count
+![Getting Started](images/a13_count.png)
 
 ### Alcohol Content Between 14 and 14.9 Count
+![Getting Started](images/a14_count.png)
 
 ### Color Red Count
+![Getting Started](images/rd_count.png)
 
 ### Color White Count
+![Getting Started](images/wh_count.png)
