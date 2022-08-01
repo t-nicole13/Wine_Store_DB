@@ -59,7 +59,7 @@ Create a database of wines that have a quality score of at least 7 for an online
 ![Getting Started](images/q7_count.png)
 
 ### Quality Score 8 Count
-![Getting Started](images/quality_8.png)
+![Getting Started](images/q8_count.png)
 
 ### Quality Score 9 Count
 ![Getting Started](images/q9_count.png)
